@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Healthbar
+  - TriTeam
+  - Undefined
+  - LeftPupil
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Walls
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2994822597
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Spiders
+    uniqueID: 397536961
+    locked: 0
+  - name: Snos
+    uniqueID: 192227599
+    locked: 0
+  - name: SnosPupils
+    uniqueID: 4215072219
+    locked: 0
